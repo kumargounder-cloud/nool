@@ -1,0 +1,5 @@
+Create pyproject.toml file
+install tzlocal
+install PyDrive
+Minor changes to main.py, ui.py and sidepanelmanager.py.
+Changes on column name in both the files.
