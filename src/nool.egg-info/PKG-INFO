@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: nool
+Version: 0.1.0
+Summary: Nool 2.0 Student Management App
+Author-email: Your Name <your@email.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: openpyxl
+Requires-Dist: tk
+Requires-Dist: gspread
+Requires-Dist: oauth2client
